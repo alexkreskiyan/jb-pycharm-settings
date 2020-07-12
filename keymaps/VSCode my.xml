@@ -2,6 +2,12 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ActivateUnitTestsCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="ActivateUnitTestsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -64,6 +70,7 @@
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
