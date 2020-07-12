@@ -1,6 +1,6 @@
 <keymap version="1" name="VSCode my" parent="VSCode">
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ChangesView.GroupBy.Directory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -21,6 +21,7 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
   </action>
@@ -31,6 +32,7 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="FileChooser.GotoHome" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta b" />
