@@ -31,6 +31,9 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -38,6 +41,7 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
@@ -83,9 +87,14 @@
   <action id="RiderNuGetRestoreForceAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="RiderUnitTestDebugContextTwAction">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="SmartStepInto" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
