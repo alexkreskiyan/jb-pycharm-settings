@@ -11,6 +11,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id="Arrangement.Rule.Add" />
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -60,6 +61,11 @@
   <action id="GotoNextError" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="HideSideWindows" />
+  <action id="NewElement" />
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -81,6 +87,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="RemoteHost.NewRemoteItem" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -96,6 +103,7 @@
   <action id="RiderUnitTestDebugContextTwAction">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="RiderUnitTestNewSessionTwAction" />
   <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
