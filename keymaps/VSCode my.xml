@@ -46,6 +46,9 @@
     <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorStartNewLineBefore" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
@@ -80,10 +83,14 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="RecentFiles" />
+  <action id="RecentLocations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -123,8 +130,13 @@
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="SwitchCodeToDesigner" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TurnOffF10WinShortcut" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
