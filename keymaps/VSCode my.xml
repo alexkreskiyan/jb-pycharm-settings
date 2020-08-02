@@ -86,6 +86,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="ReSharperReanalyzeFilesWithErrors">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
