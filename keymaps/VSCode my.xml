@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode my" parent="VSCode">
+<keymap version="1" name="VSCode my" parent="VSCode OSX">
   <action id="ActivateErrorsInSolutionToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
