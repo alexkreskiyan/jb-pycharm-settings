@@ -1,4 +1,7 @@
 <keymap version="1" name="VSCode my" parent="VSCode">
+  <action id="ActivateErrorsInSolutionToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
