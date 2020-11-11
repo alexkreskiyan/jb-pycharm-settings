@@ -5,6 +5,7 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateUnitTestsCoverageToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
