@@ -68,6 +68,9 @@
   <action id="GotoNextError" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="HideSideWindows" />
+  <action id="NavigateToImmediateWindow">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="NewElement" />
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="shift meta n" />
