@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
     <keyboard-shortcut first-keystroke="shift meta underscore" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Debug" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -49,7 +50,9 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorUnSelectWord" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
@@ -58,6 +61,20 @@
     <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta b" />
