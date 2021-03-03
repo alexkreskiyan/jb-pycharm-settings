@@ -108,6 +108,12 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl u" />
+  </action>
+  <action id="ResetToTheirsSettings">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl d" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -143,6 +149,7 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TurnOffF10WinShortcut" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
