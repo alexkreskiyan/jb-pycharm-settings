@@ -34,6 +34,7 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="Debug" />
+  <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -93,6 +94,7 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -130,6 +132,18 @@
   </action>
   <action id="ResetToTheirsSettings">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl d" />
+  </action>
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
