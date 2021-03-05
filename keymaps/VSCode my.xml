@@ -162,6 +162,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
