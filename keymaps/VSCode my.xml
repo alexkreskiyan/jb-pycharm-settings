@@ -60,7 +60,7 @@
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
-    <keyboard-shortcut first-keystroke="shift meta plus" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="GotoAction">
@@ -87,6 +87,8 @@
   <action id="GotoNextError" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="HideSideWindows" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
@@ -96,6 +98,7 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
+  <action id="NextProjectWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -112,6 +115,9 @@
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="ReSharperReanalyzeFilesWithErrors">
     <keyboard-shortcut first-keystroke="shift meta right_parenthesis" />
@@ -166,6 +172,10 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -195,4 +205,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ZoomCurrentWindow" />
 </keymap>
