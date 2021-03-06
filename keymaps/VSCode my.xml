@@ -61,6 +61,7 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="GotoAction">
