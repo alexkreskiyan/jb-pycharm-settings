@@ -22,16 +22,6 @@
                       <FeaturePluginData displayName="Mono Remote" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="DBNMethodRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
-                    </value>
-                  </entry>
-                  <entry key="DBNStatementRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
-                    </value>
-                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
@@ -215,31 +205,6 @@
                   <entry key="mocha-javascript-test-runner">
                     <value>
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
-          </value>
-        </entry>
-        <entry key="com.intellij.facetType">
-          <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="android">
-                    <value>
-                      <FeaturePluginData displayName="Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
-                    </value>
-                  </entry>
-                  <entry key="apk">
-                    <value>
-                      <FeaturePluginData displayName="APK" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
-                    </value>
-                  </entry>
-                  <entry key="native-android-gradle">
-                    <value>
-                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
                     </value>
                   </entry>
                 </map>
