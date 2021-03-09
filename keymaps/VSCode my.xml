@@ -91,7 +91,7 @@
   <action id="Jdbc.OpenConsole.New" />
   <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
-    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="NewElement" />
   <action id="NewElementSamePlace">
@@ -162,6 +162,7 @@
   <action id="RiderNuGetRestoreForceAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderUnitTestDebugContextTwAction">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
