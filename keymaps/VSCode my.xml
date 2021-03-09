@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
     <keyboard-shortcut first-keystroke="shift meta underscore" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
   <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
@@ -64,6 +65,9 @@
     <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="Git.Stage.Refresh" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -131,10 +135,15 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Rerun" />
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl u" />
   </action>
@@ -196,11 +205,13 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitchCodeToDesigner" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
