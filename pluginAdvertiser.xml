@@ -187,6 +187,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bash">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -1728,6 +1736,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.shader">
           <value>
             <plugin>
@@ -2467,6 +2483,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.zsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -2949,6 +2973,11 @@
                   <entry key="RunUnityExe">
                     <value>
                       <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
+                    </value>
+                  </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
