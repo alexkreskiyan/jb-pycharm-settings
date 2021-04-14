@@ -193,6 +193,9 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="RiderUnitTestNewSessionTwAction" />
+  <action id="RiderUnitTestProfileContextAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="p" />
+  </action>
   <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
