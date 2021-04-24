@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Annium.Infrastructure.WebSockets.Client'" />
+    <option name="defaultScopeName" value="Project 'Annium.Infrastructure.WebSockets.Client'" />
+    <option name="SEARCH_SCOPE" value="Project 'Annium.Infrastructure.WebSockets.Client'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,5 +13,6 @@
     <mask>*.tsx</mask>
     <mask>*.cs</mask>
     <mask>*Tests.csproj</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>

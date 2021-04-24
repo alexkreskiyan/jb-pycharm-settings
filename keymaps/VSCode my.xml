@@ -28,11 +28,21 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
+  <action id="CleanSolutionAction">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
     <keyboard-shortcut first-keystroke="shift meta underscore" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange">
@@ -61,8 +71,12 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="Git.Stage.Refresh" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -86,11 +100,14 @@
   </action>
   <action id="GotoNextError" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="GuiDesigner.ExpandSelection">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="HideSideWindows" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
-    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="NewElement" />
   <action id="NewElementSamePlace">
@@ -130,9 +147,19 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem" />
+  <action id="RemoteHostView.CopyPaths">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl u" />
@@ -161,10 +188,14 @@
   <action id="RiderNuGetRestoreForceAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderUnitTestDebugContextTwAction">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="RiderUnitTestNewSessionTwAction" />
+  <action id="RiderUnitTestProfileContextAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="p" />
+  </action>
   <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
@@ -194,16 +225,21 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitchCodeToDesigner" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="WelcomeScreen.CopyProjectPath">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
