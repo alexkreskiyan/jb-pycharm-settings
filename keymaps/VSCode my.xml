@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
   <action id="Arrangement.Rule.Add" />
+  <action id="AutoIndentLines" />
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -189,6 +190,9 @@
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="RiderNuGetToggleInfoExpanderAction" />
+  <action id="RiderShowIlViewerAction">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
