@@ -11,8 +11,8 @@
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.cs</mask>
     <mask>*Tests.csproj</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
