@@ -44,10 +44,6 @@
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
-  <action id="Coverage">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="c" />
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta c" />
-  </action>
   <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange">
@@ -199,6 +195,10 @@
   <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderShowIlViewerAction">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="RiderUnitTestCoverContextAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="c" />
   </action>
   <action id="RiderUnitTestDebugContextTwAction">
     <keyboard-shortcut first-keystroke="shift meta enter" />
