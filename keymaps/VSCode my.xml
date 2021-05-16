@@ -104,6 +104,9 @@
   <action id="GuiDesigner.ExpandSelection">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="HideCoverage">
+    <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="h" />
+  </action>
   <action id="HideSideWindows" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="MoveTabRight" />
@@ -231,6 +234,10 @@
   </action>
   <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitchCodeToDesigner" />
+  <action id="SwitchCoverage">
+    <keyboard-shortcut first-keystroke="meta alt f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="s" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TurnOffF10WinShortcut" />
