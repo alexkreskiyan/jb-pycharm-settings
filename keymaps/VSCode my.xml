@@ -124,6 +124,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="OpenWinFormsDesignerAction" />
+  <action id="OpenXCodeAction">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
