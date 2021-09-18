@@ -8,6 +8,9 @@
   <action id="ActivateErrorsInSolutionToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
