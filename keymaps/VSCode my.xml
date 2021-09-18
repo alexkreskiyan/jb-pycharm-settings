@@ -44,6 +44,9 @@
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
+  <action id="DBNavigator.Actions.MainMenu.DatabaseBrowser">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
