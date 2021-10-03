@@ -56,6 +56,7 @@
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
+  <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange">
