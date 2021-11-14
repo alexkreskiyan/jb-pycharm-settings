@@ -45,8 +45,7 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
-    <keyboard-shortcut first-keystroke="shift meta underscore" />
+    <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
@@ -75,6 +74,9 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleUseSoftWraps" />
@@ -83,9 +85,7 @@
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
-    <keyboard-shortcut first-keystroke="shift meta equals" />
-    <keyboard-shortcut first-keystroke="shift meta plus" />
+    <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="Git.Stage.Refresh" />
@@ -260,6 +260,7 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.Refresh" />
