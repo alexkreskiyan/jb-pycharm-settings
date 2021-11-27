@@ -202,6 +202,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Rider.ProblemsView.ErrorsInSolution">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="RiderNuGetRestoreAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
