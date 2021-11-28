@@ -1,10 +1,7 @@
 <application>
   <component name="DBNavigator.Application.Settings">
-    <developer-mode value="false" />
-    <parser-debug-mode value="false" />
-    <database-access-debug-mode value="false" />
-    <database-resource-debug-mode value="false" />
-    <database-lagging-mode value="false" />
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
@@ -134,6 +131,7 @@
           <content-type name="HTML" enabled="true" />
           <content-type name="XHTML" enabled="true" />
           <content-type name="CSS" enabled="true" />
+          <content-type name="Java" enabled="true" />
           <content-type name="SQL" enabled="true" />
           <content-type name="PL/SQL" enabled="true" />
           <content-type name="JSON" enabled="true" />
@@ -141,6 +139,7 @@
           <content-type name="YAML" enabled="true" />
           <content-type name="C#" enabled="true" />
           <content-type name="C++" enabled="true" />
+          <content-type name="Manifest" enabled="true" />
         </content-types>
       </qualified-text-editor>
       <record-navigation>
