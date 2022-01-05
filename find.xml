@@ -3,16 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cshtml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*Tests.csproj</mask>
     <mask>*.csproj</mask>
     <mask>*.cs</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
