@@ -112,7 +112,9 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="GuiDesigner.ExpandSelection">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -121,6 +123,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="h" />
   </action>
   <action id="HideSideWindows" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
@@ -151,7 +156,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="ProblemsViewReSharperReanalyzeAllFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta e" />
