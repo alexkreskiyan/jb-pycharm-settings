@@ -164,6 +164,10 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
+  <action id="ReSharperGotoNextErrorInSolution">
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
@@ -242,6 +246,7 @@
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
+  <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
