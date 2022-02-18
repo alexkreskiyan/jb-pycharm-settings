@@ -164,6 +164,10 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="ReSharperGotoNextErrorInSolution">
     <keyboard-shortcut first-keystroke="alt f2" />
     <keyboard-shortcut first-keystroke="alt f1" />
