@@ -24,6 +24,9 @@
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="ActivatedotTraceProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
