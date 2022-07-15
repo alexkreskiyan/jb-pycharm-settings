@@ -50,6 +50,9 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyAbsolutePath">
@@ -183,7 +186,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="Refresh" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="RemoteHost.NewRemoteItem" />
   <action id="RemoteHostView.CopyPaths">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
