@@ -53,7 +53,9 @@
   <action id="Console.Jdbc.Execute">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.Reload">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyAbsolutePath">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
