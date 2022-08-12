@@ -14,5 +14,6 @@
     <mask>*.ts</mask>
     <mask>*.cs</mask>
     <mask>*.sql</mask>
+    <mask>*Repository.cs</mask>
   </component>
 </application>
