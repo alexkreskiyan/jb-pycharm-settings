@@ -15,7 +15,7 @@
     <mask>*Repository.cs</mask>
     <mask>project_tpl</mask>
     <mask>*.cs</mask>
-    <mask>*.razor</mask>
     <mask>*.sql</mask>
+    <mask>*.razor</mask>
   </component>
 </application>
