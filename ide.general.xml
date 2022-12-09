@@ -18,7 +18,6 @@
     <entry key="ide.borderless.title.debug" value="true" />
     <entry key="ide.title.debug" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
-    <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
