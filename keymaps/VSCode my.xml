@@ -8,12 +8,16 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ActivateErrorsInSolutionToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -126,6 +130,7 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
+  <action id="GotoRelated" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="GuiDesigner.ExpandSelection">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -138,6 +143,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="MoveEditorToOppositeTabGroup" />
   <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
     <keyboard-shortcut first-keystroke="meta i" />
