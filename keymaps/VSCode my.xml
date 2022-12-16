@@ -234,6 +234,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="r" />
+  </action>
   <action id="Rider.ProblemsView.ErrorsInSolution">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
