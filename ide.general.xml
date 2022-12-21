@@ -29,6 +29,8 @@
     <option name="widgets">
       <map>
         <entry key="DpaIcon" value="false" />
+        <entry key="RoslynIcon" value="false" />
+        <entry key="SolutionAnalysisText" value="false" />
       </map>
     </option>
   </component>
