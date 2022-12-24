@@ -23,12 +23,16 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ide.new.project.model" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
         <entry key="DpaIcon" value="false" />
+        <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
+        <entry key="RiderMemory" value="true" />
       </map>
     </option>
   </component>

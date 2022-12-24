@@ -8,12 +8,16 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ActivateErrorsInSolutionToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -37,6 +41,9 @@
   </action>
   <action id="ChangesView.GroupBy.Directory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -99,6 +106,12 @@
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta p" second-keystroke="ctrl meta l" />
+  </action>
   <action id="Git.Stage.Refresh" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
@@ -126,6 +139,7 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
+  <action id="GotoRelated" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="GuiDesigner.ExpandSelection">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -138,6 +152,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="MoveEditorToOppositeTabGroup" />
   <action id="MoveTabRight" />
   <action id="NavigateToImmediateWindow">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -228,6 +243,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="r" />
+  </action>
   <action id="Rider.ProblemsView.ErrorsInSolution">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -297,6 +315,9 @@
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl meta p" second-keystroke="ctrl meta s" />
+  </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
