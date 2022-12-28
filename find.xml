@@ -1,25 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cshtml</mask>
-    <mask>*.json</mask>
-    <mask>*.tsx</mask>
-    <mask>*Tests.csproj</mask>
-    <mask>*.csproj</mask>
-    <mask>*.ts</mask>
-    <mask>*Repository.cs</mask>
-    <mask>project_tpl</mask>
-    <mask>*.razor</mask>
-    <mask>*.sql</mask>
     <mask>*.cs</mask>
   </component>
 </application>
