@@ -3,13 +3,16 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
         </configuration>
       </debugger>
       <debugger id="javascript">
