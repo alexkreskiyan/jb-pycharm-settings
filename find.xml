@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Casino.Workers'" />
+    <option name="defaultScopeName" value="Project 'Casino.Workers'" />
+    <option name="SEARCH_SCOPE" value="Project 'Casino.Workers'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.csproj</mask>
-    <mask>*.sql</mask>
     <mask>*.cs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
