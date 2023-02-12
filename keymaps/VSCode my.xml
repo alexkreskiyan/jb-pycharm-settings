@@ -76,6 +76,12 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
   <action id="Debug" />
+  <action id="Debugger.AddInlineWatch">
+    <keyboard-shortcut first-keystroke="alt w" second-keystroke="alt i" />
+  </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="alt w" second-keystroke="alt a" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange">
