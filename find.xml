@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'ADS.Pipeline.Application'" />
+    <option name="defaultScopeName" value="Project 'ADS.Pipeline.Application'" />
+    <option name="SEARCH_SCOPE" value="Project 'ADS.Pipeline.Application'" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.template</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
