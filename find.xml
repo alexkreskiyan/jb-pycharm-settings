@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SSO.Workers'" />
-    <option name="defaultScopeName" value="Project 'SSO.Workers'" />
-    <option name="SEARCH_SCOPE" value="Project 'SSO.Workers'" />
+    <option name="customScope" value="Project 'UIC.Application'" />
+    <option name="defaultScopeName" value="Project 'UIC.Application'" />
+    <option name="SEARCH_SCOPE" value="Project 'UIC.Application'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
