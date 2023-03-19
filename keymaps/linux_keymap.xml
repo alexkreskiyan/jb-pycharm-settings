@@ -138,7 +138,7 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="ctrl button1" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoImplementation">
@@ -225,7 +225,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl shift r" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -272,7 +272,7 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="c" />
   </action>
   <action id="RiderUnitTestDebugContextTwAction">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl shift enter" />
   </action>
   <action id="RiderUnitTestNewSessionTwAction" />
   <action id="RiderUnitTestProfileContextAction">
