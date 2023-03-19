@@ -2,6 +2,11 @@
   <component name="KeymapFlagsStorage">
     <option name="keymapToDescriptor">
       <map>
+        <entry key="linux_keymap">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="mac_keymap">
           <value>
             <list />
