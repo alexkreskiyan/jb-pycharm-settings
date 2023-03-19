@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode my" parent="VSCode OSX">
+<keymap version="1" name="mac_keymap" parent="VSCode OSX">
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
