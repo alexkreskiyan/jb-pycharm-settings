@@ -39,7 +39,7 @@
   <action id="Arrangement.Rule.Add" />
   <action id="AutoIndentLines" />
   <action id="BuildSolutionAction">
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ChangesView.GroupBy.Directory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -243,7 +243,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="r" />
   </action>
   <action id="Rider.ProblemsView.ErrorsInSolution">
     <keyboard-shortcut first-keystroke="ctrl e" />
