@@ -45,6 +45,7 @@
   <action id="ChangesView.GroupBy.Directory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -323,6 +324,7 @@
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
