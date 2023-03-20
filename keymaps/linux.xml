@@ -291,6 +291,9 @@
   </action>
   <action id="ScrollPane-scrollDown" />
   <action id="ScrollPane-scrollUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
