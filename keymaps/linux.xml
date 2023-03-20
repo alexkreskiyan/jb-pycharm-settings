@@ -132,7 +132,7 @@
   <action id="GotoBookmark9" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
