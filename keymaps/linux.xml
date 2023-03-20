@@ -285,7 +285,7 @@
   <action id="SelectNextOccurrence" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt u" />
