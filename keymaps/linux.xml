@@ -204,6 +204,7 @@
   </action>
   <action id="RecentFiles" />
   <action id="RecentLocations" />
+  <action id="RecentProjectListGroup" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -270,6 +271,9 @@
   <action id="RiderUnitTestNewSessionTwAction" />
   <action id="RiderUnitTestProfileContextAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="p" />
+  </action>
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
