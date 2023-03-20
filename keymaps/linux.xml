@@ -106,6 +106,12 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+  </action>
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord" />
   <action id="EvaluateExpression">
@@ -282,6 +288,8 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ScrollPane-scrollDown" />
+  <action id="ScrollPane-scrollUp" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
