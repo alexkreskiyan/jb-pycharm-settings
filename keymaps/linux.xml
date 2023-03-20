@@ -144,7 +144,7 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="HideCoverage">
-    <keyboard-shortcut first-keystroke="ctrl shift c" second-keystroke="h" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="h" />
   </action>
   <action id="HideSideWindows" />
   <action id="Javascript.Linters.EsLint.Fix">
