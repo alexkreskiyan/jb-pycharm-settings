@@ -122,6 +122,12 @@
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="Forward" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="f1" />
