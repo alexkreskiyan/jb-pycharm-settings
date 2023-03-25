@@ -165,6 +165,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="h" />
   </action>
   <action id="HideSideWindows" />
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
@@ -293,6 +296,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="RunInspection" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
