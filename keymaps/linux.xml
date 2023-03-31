@@ -227,6 +227,9 @@
   <action id="RecentFiles" />
   <action id="RecentLocations" />
   <action id="RecentProjectListGroup" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -270,9 +273,6 @@
   </action>
   <action id="Rider.ProblemsView.ErrorsInSolution">
     <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="RiderNuGetRestoreAction">
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RiderNuGetRestoreForceAction">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
