@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.resharper.StructuredLogging" />
         <option value="Abc.MoqComplete.Rider" />
+        <option value="com.intellij.resharper.azure" />
       </list>
     </option>
   </component>
