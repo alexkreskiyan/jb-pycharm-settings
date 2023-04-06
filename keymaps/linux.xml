@@ -354,6 +354,9 @@
   <action id="WelcomeScreen.CopyProjectPath">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="p" />
   </action>
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
   <action id="ZoomInIdeAction" />
   <action id="ZoomOutIdeAction" />
 </keymap>
