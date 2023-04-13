@@ -9,7 +9,7 @@
     <mask>*.template</mask>
     <mask>*.csproj</mask>
     <mask>*.razor</mask>
-    <mask>*.sql</mask>
     <mask>*.cs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
