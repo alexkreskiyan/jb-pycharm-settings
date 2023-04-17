@@ -5,6 +5,7 @@
         <option value="com.intellij.resharper.StructuredLogging" />
         <option value="Abc.MoqComplete.Rider" />
         <option value="com.intellij.resharper.azure" />
+        <option value="me.seclerp.rider.plugins.efcore" />
       </list>
     </option>
   </component>
