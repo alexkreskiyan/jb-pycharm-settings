@@ -296,7 +296,7 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SmartStepInto" />
-  <action id="StepInto">shift meta
+  <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="StepOut">
