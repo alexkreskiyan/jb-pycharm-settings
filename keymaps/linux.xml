@@ -246,7 +246,9 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
-  <action id="Rerun" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
   </action>
@@ -271,31 +273,6 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="r" />
   </action>
-  <action id="Rider.ProblemsView.ErrorsInSolution">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="RiderNuGetRestoreForceAction">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
-  <action id="RiderNuGetToggleInfoExpanderAction" />
-  <action id="RiderShowIlViewerAction">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-  </action>
-  <action id="RiderUnitTestCoverContextAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="c" />
-  </action>
-  <action id="RiderUnitTestDebugContextTwAction">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
-  <action id="RiderUnitTestNewSessionTwAction" />
-  <action id="RiderUnitTestProfileContextAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="p" />
-  </action>
-  <action id="RiderUnitTestRunContextTwAction">
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
-  <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
@@ -357,6 +334,7 @@
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="ZoomCurrentWindow" />
   <action id="ZoomInIdeAction" />
   <action id="ZoomOutIdeAction" />
 </keymap>

@@ -38,6 +38,7 @@
   </action>
   <action id="Arrangement.Rule.Add" />
   <action id="AutoIndentLines" />
+  <action id="Back" />
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -55,6 +56,9 @@
   </action>
   <action id="CleanSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift alt minus" />
@@ -105,6 +109,12 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+  </action>
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord" />
   <action id="EvaluateExpression">
@@ -114,15 +124,16 @@
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
   <action id="FileChooser.GotoHome" />
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="ctrl meta p" second-keystroke="ctrl meta l" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
-  <action id="Git.Stage.Refresh" />
-  <action id="Github.PullRequest.Comments.Reload" />
-  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Forward" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -156,6 +167,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="h" />
   </action>
   <action id="HideSideWindows" />
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
@@ -211,6 +225,10 @@
   </action>
   <action id="RecentFiles" />
   <action id="RecentLocations" />
+  <action id="RecentProjectListGroup" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -228,13 +246,13 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="Rerun">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ResetToMySettings">
-    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
   </action>
   <action id="ResetToTheirsSettings">
-    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt d" />
   </action>
   <action id="ResizeToolWindowDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -254,40 +272,19 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="r" />
   </action>
-  <action id="Rider.ProblemsView.ErrorsInSolution">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="RiderNuGetRestoreAction">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="RiderNuGetRestoreForceAction">
-    <keyboard-shortcut first-keystroke="meta alt r" />
-  </action>
-  <action id="RiderNuGetToggleInfoExpanderAction" />
-  <action id="RiderShowIlViewerAction">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-  </action>
-  <action id="RiderUnitTestCoverContextAction">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="c" />
-  </action>
-  <action id="RiderUnitTestDebugContextTwAction">
-    <keyboard-shortcut first-keystroke="shift meta enter" />
-  </action>
-  <action id="RiderUnitTestNewSessionTwAction" />
-  <action id="RiderUnitTestProfileContextAction">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="p" />
-  </action>
-  <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="ScrollPane-scrollDown" />
+  <action id="ScrollPane-scrollUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="meta f2" />
-    <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
   <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
@@ -296,13 +293,10 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="shift meta u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SmartStepInto" />
-  <action id="SonarLint.AnalyzeFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
-  <action id="StepInto">
+  <action id="StepInto">shift meta
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="StepOut">
@@ -314,13 +308,14 @@
   <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitchCodeToDesigner" />
   <action id="SwitchCoverage">
-    <keyboard-shortcut first-keystroke="meta alt f6" />
     <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="s" />
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TurnOffF10WinShortcut" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Push">
@@ -336,5 +331,10 @@
   <action id="WelcomeScreen.CopyProjectPath">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
   <action id="ZoomCurrentWindow" />
+  <action id="ZoomInIdeAction" />
+  <action id="ZoomOutIdeAction" />
 </keymap>
