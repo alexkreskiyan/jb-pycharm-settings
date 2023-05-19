@@ -1,0 +1,22 @@
+<scheme name="_@user_Visual Studio Light" version="142" parent_scheme="Visual Studio Light">
+  <metaInfo>
+    <property name="created">2020-08-20T10:21:17</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2023-02-28T21:52:34</property>
+    <property name="originalScheme">Visual Studio Light</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="f0f0f0" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
