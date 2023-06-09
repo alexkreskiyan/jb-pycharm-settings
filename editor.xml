@@ -8,6 +8,20 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -49,6 +63,11 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+      </set>
+    </option>
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="ts.type.hints" />
   </component>
